@@ -1,0 +1,4 @@
+IdNo;Name;Designation;salaryBasic
+1001;Ramesh;Assistant Engineer;15000
+1002;David;Sr.Assistant Engineer;25000
+1003;Rahim;Engineer;20000

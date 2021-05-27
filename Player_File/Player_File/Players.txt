@@ -1,0 +1,7 @@
+PlayerName;country;TotalRuns;higestRuns;
+Sachin;india;11500;200
+Ganguly;india;8500;183
+Yuvrajsingh;india;7800;140
+Gayle;Westindies;6500;158
+Lara;Westindies;9500;170
+Ponting;Australia;8500;153
